@@ -1,1 +1,1 @@
-# Volatile Stock Movement Prediction Utilizing Natural Language Processing (NLP)
+# Volatile Stock Movement Prediction - Natural Language Processing (NLP)
