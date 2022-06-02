@@ -57,7 +57,7 @@ def download_news(ticker_symbol):
     #
     # Save it as a .csv
     #
-    data_csv_path = Path("Resources/" + ticker_symbol + ".csv")
+    data_csv_path = Path("Resources/news/" + ticker_symbol + ".csv")
     data_df.to_csv(data_csv_path, index=False)
     
 #
